@@ -1,6 +1,6 @@
 # Rating-nextjs
 
-Aplikasi Web ini dibuat untuk contoh rating dan review.
+Aplikasi Web ini dibuat untuk contoh rating dan review menggunakan next js.
 
 ## Tools
 
